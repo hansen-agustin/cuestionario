@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+=======
+En tus palabras, ¿Qué es internet?
+>>>>>>> 9cd16a8a90c88e0a01632bc1894b8a9a4598e984
