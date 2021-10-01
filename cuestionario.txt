@@ -1,9 +1,5 @@
-<<<<<<< HEAD
+Agustín Federico Hansen Poblano y Andrik Olaf Grimaldo Casas 
 
-Agustín Federico Hansen Poblano y Andrick Olaf Grimaldo Casas 
-=======
-Agustín Federico Hansen Poblano y Andrick Olaf Grimaldo Casas 4°F
->>>>>>> 43dd6311b6d6a2fc9d9d53188fb3a9ecce0bad53
 En tus palabras, ¿Qué es internet?
 R=Internet es una red de computadoras interconectadas  a nivel mundial la cual consiste de varios servidores que estan conectadas entre ella a través de las redes de telefonía y cable.
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
