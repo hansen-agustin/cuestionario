@@ -11,3 +11,4 @@ R=El HTTP y HTML es un lenguaje para cambiar a negrita, cursiva, para alinear se
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 ¿Cómo funciona la búsqueda de google?
+R=Funciona por medio de URL de páginas.Analizando el contenido textual y no textual.
