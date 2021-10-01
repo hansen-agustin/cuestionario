@@ -6,6 +6,7 @@ R=Son 3 por radio, luz y por la electricidad: Radio es totalmente movil, La luz 
 R=El internet se organizá a base de redes por las cuales se conecta con otras a través del IP y DNS.IP significa protocolo de internet la cual manda la información a una computadora y contiene direcciones números etc...El DNS asocia el www y hace que las direcciones correspondan y los ocupa para buscar nombres principales.
 
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+R=Funciona como una paquetería tu al reproducir una canción se hace un pedido a los servicios de Spotify después te envían tus paquetes por medio de routers que hacen que sea mas rápido y menos complicado la llegada si algún paquete al recibirlos faltara no se podría reproducir la canción ya que cuando llegan los paquetes se hace un check in de los recibidos y eso asegura que puedas disfrutar de toda la canción.
 Describe los protocolos que existen en internet, en específico HTTP y HTML
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
