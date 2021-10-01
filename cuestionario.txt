@@ -1,5 +1,5 @@
-
 En tus palabras, ¿Qué es internet?
+R=Internet es una red de computadoras interconectadas a nivel mundial la cual consiste de varios servidores que estan conectadas entre ella a través de las redes de telefonía y cable.
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
