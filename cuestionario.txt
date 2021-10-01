@@ -1,5 +1,5 @@
 En tus palabras, ¿Qué es internet?
-R=Internet es una red de computadoras interconectadas a nivel mundial la cual consiste de varios servidores que estan conectadas entre ella a través de las redes de telefonía y cable.
+R=Internet es una red de computadoras interconectadas  a nivel mundial la cual consiste de varios servidores que estan conectadas entre ella a través de las redes de telefonía y cable.
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
 R=Son 3 por radio, luz y por la electricidad: Radio es totalmente movil, La luz es muy rápida y la electricidad es muy barato
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
@@ -9,9 +9,11 @@ R=Funciona como una paquetería tu al reproducir una canción se hace un pedido 
 Describe los protocolos que existen en internet, en específico HTTP y HTML.
 R=El HTTP y HTML es un lenguaje para cambiar a negrita, cursiva, para alinear se texto se utiliza HTML.HTTP es un protocolo de acceso para las páginas web a través de internet.HTML es un lenguaje utilizado para calificar la información y recursos web.
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-R=Podemos decir que la encriptación es el tipo de llave privada con el cuál nosotrso podemos mandarnos y respondernos de manera segura los mensajes y hablar sin que sea corrompido por algún ladron o criminal de nuestros datos también la encriptación es un método por el cuál en tal caso de llegar a ser receptado por algún criminal gracias a como funciona este sistema llamado código cesar que se constituye por una letra y un cierto número de pasos abajo del alfabeto.
+R=Podemos decir que la encriptación es el tipo de llave privada con el cuál nosotros podemos mandarnos y respondernos de manera segura los mensajes y hablar sin que sea corrompido por algún ladron o criminal de nuestros datos también la encriptación es un método por el cuál en tal caso de llegar a ser receptado por algún criminal gracias a como funciona este sistema llamado código cesar que se constituye por una letra y un cierto número de pasos abajo del alfabeto.
 Las llaves públicas nos brindan seguridad de cierta forma es como algo que todos pueden acceder pero a la vez no y se guardan y se respaldan tus datos de manera segura al navegar tomando en cuenta el ejemplo del video en el que la llave de un buzón todo mundo a quien se lo compartas tendra acceso a él y podra acceder pero solo tu podras ver su contenido un buen ejemplo de ello es cuando navegamos a través  de un sitio web el candado que aparece en nuestro navegador que nos hace referencia a que tenemos una public Key o en español una llave Pública. 
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+R=No descargando aplicaciones sin una verificación posterior , ni compartiendo información como contraseñas en páginas desconocidas , no aceptar correos que pidan contraseñas , teniendo contraseñas con máximo 15 caracteres. no mandar información que tengan que ver con tu escuela o casa.
+Tratar de no descargar apps que pidan que mandes alguna contraseña.
 ¿Cómo funciona la búsqueda de google?
 R=Funciona por medio de URL de páginas.Analizando el contenido textual y no textual.
 
