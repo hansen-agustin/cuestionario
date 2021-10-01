@@ -4,7 +4,6 @@ Describe los medios físicos y de propagación de ondas por los que se transmite
 R=Son 3 por radio, luz y por la electricidad: Radio es totalmente movil, La luz es muy rápida y la electricidad es muy barato
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
 R=El internet se organizá a base de redes por las cuales se conecta con otras a través del IP y DNS.IP significa protocolo de internet la cual manda la información a una computadora y contiene direcciones números etc...El DNS asocia el www y hace que las direcciones correspondan y los ocupa para buscar nombres principales.
-
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
 Describe los protocolos que existen en internet, en específico HTTP y HTML
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
